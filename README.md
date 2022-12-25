@@ -12,3 +12,5 @@
 + ### Pertemuan 12 : Praktikum & Tugas
 + ### Pertemuan 13 : Kuis 2
 + ### Pertemuan 14 : Praktikum & Tugas
++ ### Pertemuan 15 : Praktikum
++ ### Pertemuan 17 : UAS
