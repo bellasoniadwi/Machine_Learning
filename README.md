@@ -5,3 +5,4 @@
 + ### Pertemuan 4 : Praktikum & Tugas
 + ### Pertemuan 6 : Praktikum & Tugas
 + ### Pertemuan 7 : Praktikum
++ ### Pertemuan 8 : Praktikum
