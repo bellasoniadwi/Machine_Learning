@@ -10,3 +10,4 @@
 + ### Pertemuan 10 : Praktikum & Tugas
 + ### Pertemuan 11 : Tugas
 + ### Pertemuan 12 : Praktikum & Tugas
++ ### Pertemuan 13 : Kuis 2
